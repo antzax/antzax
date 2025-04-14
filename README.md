@@ -13,9 +13,10 @@ Some words about me
 
 ```json
 {
-  "frontend": ["TypeScript@alpha", "React", "Next.js", "CSS / TailwindCSS", "Storybook"],
-  "backend": ["TypeScript@alpha", "Node.js", "Express", "MongoDB / Postgres / Prisma"],
-  "ops": ["Linux", "Bash", "Docker", "CI/CD", "SSH", "Zsh", "Git"],
+  "frontend": ["TypeScript@alpha", "React", "Next.js", "CSS / TailwindCSS", "Storybook", "Framer Motion", "Anime.js", "Three.js@alpha", "Zustand", "React Query"],
+  "backend": ["TypeScript@alpha", "Node.js", "Express", "MongoDB / Postgres / Prisma", "GraphQL", "Websockets"],
+  "ops": ["Linux", "Bash", "Docker", "CI/CD", "SSH", "Zsh", "Git", "Eslint"],
   "oop": ["Ruby", "Ruby on Rails"],
-  "data": ["Python", "Jupyter", "Pandas", "NumPy", "Matplotlib"]
+  "data": ["Python", "Jupyter", "Pandas", "NumPy", "Matplotlib"],
+  "testing": ["Jest", "Supertest", "Playwright", "Cypress"]
 }
