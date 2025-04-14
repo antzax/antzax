@@ -15,7 +15,7 @@ Some words about me
 {
   "frontend": ["TypeScript@alpha", "React", "Next.js", "CSS / TailwindCSS", "Storybook"],
   "backend": ["TypeScript@alpha", "Node.js", "Express", "MongoDB / Postgres / Prisma"],
-  "ops@alpha": ["Linux", "Bash", "Docker", "CI/CD", "SSH", "Zsh", "Git"],
+  "ops": ["Linux", "Bash", "Docker", "CI/CD", "SSH", "Zsh", "Git"],
   "oop": ["Ruby", "Ruby on Rails"],
-  "data@alpha": ["Python", "Jupyter", "Pandas", "NumPy", "Matplotlib"]
+  "data": ["Python", "Jupyter", "Pandas", "NumPy", "Matplotlib"]
 }
